@@ -1,80 +1,80 @@
 {
   "": [
     {
-      "name": "login?return_to=%2Fvolcengine%2FOpenViking\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1128123594,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fvolcengine%2FOpenViking\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1128123594,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending&quot;,&quot;user_id&quot;:null}}",
+      "name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
       "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw)....",
       "language": "Python",
       "stars": 0,
       "stars_today": 1557
     },
     {
-      "name": "login?return_to=%2Fanthropics%2Fclaude-plugins-official\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1100776768,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-plugins-official\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1100776768,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending&quot;,&quot;user_id&quot;:null}}",
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "stars": 0,
       "stars_today": 411
     },
     {
-      "name": "login?return_to=%2FdimensionalOS%2Fdimos\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:875378461,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2FdimensionalOS%2Fdimos\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:875378461,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending&quot;,&quot;user_id&quot;:null}}",
+      "name": "dimensionalOS/dimos",
+      "url": "https://github.com/dimensionalOS/dimos",
       "description": "The Dimensional Framework",
       "language": "Python",
       "stars": 0,
       "stars_today": 64
     },
     {
-      "name": "login?return_to=%2Fp-e-w%2Fheretic\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1061041576,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fp-e-w%2Fheretic\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1061041576,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending&quot;,&quot;user_id&quot;:null}}",
+      "name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "stars": 0,
       "stars_today": 661
     },
     {
-      "name": "login?return_to=%2Flangflow-ai%2Fopenrag\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1018113827,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Flangflow-ai%2Fopenrag\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1018113827,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending&quot;,&quot;user_id&quot;:null}}",
+      "name": "langflow-ai/openrag",
+      "url": "https://github.com/langflow-ai/openrag",
       "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow...",
       "language": "Python",
       "stars": 0,
       "stars_today": 568
     },
     {
-      "name": "login?return_to=%2Flightpanda-io%2Fbrowser\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:598667202,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Flightpanda-io%2Fbrowser\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:598667202,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending&quot;,&quot;user_id&quot;:null}}",
+      "name": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "stars": 0,
       "stars_today": 2100
     },
     {
-      "name": "sponsors/msitarzewski",
-      "url": "https://github.com/sponsors/msitarzewski",
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi...",
       "language": "Shell",
       "stars": 0,
       "stars_today": 4329
     },
     {
-      "name": "login?return_to=%2Ffishaudio%2Ffish-speech\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:702796244,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Ffishaudio%2Ffish-speech\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:702796244,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending&quot;,&quot;user_id&quot;:null}}",
+      "name": "fishaudio/fish-speech",
+      "url": "https://github.com/fishaudio/fish-speech",
       "description": "SOTA Open Source TTS",
       "language": "Python",
       "stars": 0,
       "stars_today": 377
     },
     {
-      "name": "sponsors/InsForge",
-      "url": "https://github.com/sponsors/InsForge",
+      "name": "InsForge/InsForge",
+      "url": "https://github.com/InsForge/InsForge",
       "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
       "language": "TypeScript",
       "stars": 0,
       "stars_today": 477
     },
     {
-      "name": "sponsors/obra",
-      "url": "https://github.com/sponsors/obra",
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "language": "Shell",
       "stars": 0,
@@ -83,80 +83,80 @@
   ],
   "python": [
     {
-      "name": "login?return_to=%2Fvolcengine%2FOpenViking\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1128123594,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fvolcengine%2FOpenViking\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1128123594,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python&quot;,&quot;user_id&quot;:null}}",
+      "name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
       "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw)....",
       "language": "Python",
       "stars": 0,
       "stars_today": 1557
     },
     {
-      "name": "login?return_to=%2Fanthropics%2Fclaude-plugins-official\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1100776768,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-plugins-official\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1100776768,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python&quot;,&quot;user_id&quot;:null}}",
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "stars": 0,
       "stars_today": 411
     },
     {
-      "name": "login?return_to=%2FdimensionalOS%2Fdimos\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:875378461,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2FdimensionalOS%2Fdimos\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:875378461,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python&quot;,&quot;user_id&quot;:null}}",
+      "name": "dimensionalOS/dimos",
+      "url": "https://github.com/dimensionalOS/dimos",
       "description": "The Dimensional Framework",
       "language": "Python",
       "stars": 0,
       "stars_today": 64
     },
     {
-      "name": "login?return_to=%2Fp-e-w%2Fheretic\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1061041576,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fp-e-w%2Fheretic\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1061041576,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python&quot;,&quot;user_id&quot;:null}}",
+      "name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "stars": 0,
       "stars_today": 661
     },
     {
-      "name": "login?return_to=%2Flangflow-ai%2Fopenrag\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1018113827,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Flangflow-ai%2Fopenrag\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1018113827,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python&quot;,&quot;user_id&quot;:null}}",
+      "name": "langflow-ai/openrag",
+      "url": "https://github.com/langflow-ai/openrag",
       "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow...",
       "language": "Python",
       "stars": 0,
       "stars_today": 568
     },
     {
-      "name": "login?return_to=%2Ffishaudio%2Ffish-speech\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:702796244,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Ffishaudio%2Ffish-speech\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:702796244,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python&quot;,&quot;user_id&quot;:null}}",
+      "name": "fishaudio/fish-speech",
+      "url": "https://github.com/fishaudio/fish-speech",
       "description": "SOTA Open Source TTS",
       "language": "Python",
       "stars": 0,
       "stars_today": 377
     },
     {
-      "name": "login?return_to=%2F666ghj%2FMiroFish\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1104332987,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2F666ghj%2FMiroFish\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1104332987,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python&quot;,&quot;user_id&quot;:null}}",
+      "name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
       "stars": 0,
       "stars_today": 2048
     },
     {
-      "name": "login?return_to=%2Fvectorize-io%2Fhindsight\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1086419061,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fvectorize-io%2Fhindsight\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1086419061,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python&quot;,&quot;user_id&quot;:null}}",
+      "name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "stars": 0,
       "stars_today": 502
     },
     {
-      "name": "login?return_to=%2Fmicrosoft%2FBitNet\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:838253246,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fmicrosoft%2FBitNet\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:838253246,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/python&quot;,&quot;user_id&quot;:null}}",
+      "name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
       "description": "Official inference framework for 1-bit LLMs",
       "language": "Python",
       "stars": 0,
       "stars_today": 1303
     },
     {
-      "name": "sponsors/topoteretes",
-      "url": "https://github.com/sponsors/topoteretes",
+      "name": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
       "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
       "language": "Python",
       "stars": 0,
@@ -165,80 +165,80 @@
   ],
   "javascript": [
     {
-      "name": "sponsors/mrdoob",
-      "url": "https://github.com/sponsors/mrdoob",
+      "name": "mrdoob/three.js",
+      "url": "https://github.com/mrdoob/three.js",
       "description": "JavaScript 3D Library.",
       "language": "JavaScript",
       "stars": 0,
       "stars_today": 21
     },
     {
-      "name": "login?return_to=%2FFreeTubeApp%2FFreeTube\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:123220152,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/javascript&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2FFreeTubeApp%2FFreeTube\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:123220152,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/javascript&quot;,&quot;user_id&quot;:null}}",
+      "name": "FreeTubeApp/FreeTube",
+      "url": "https://github.com/FreeTubeApp/FreeTube",
       "description": "An Open Source YouTube app for privacy",
       "language": "JavaScript",
       "stars": 0,
       "stars_today": 38
     },
     {
-      "name": "login?return_to=%2Fqist%2Ftvbox\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:684355571,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/javascript&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fqist%2Ftvbox\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:684355571,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/javascript&quot;,&quot;user_id&quot;:null}}",
+      "name": "qist/tvbox",
+      "url": "https://github.com/qist/tvbox",
       "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "language": "JavaScript",
       "stars": 0,
       "stars_today": 22
     },
     {
-      "name": "login?return_to=%2Fgsd-build%2Fget-shit-done\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1116260703,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/javascript&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fgsd-build%2Fget-shit-done\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1116260703,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/javascript&quot;,&quot;user_id&quot;:null}}",
+      "name": "gsd-build/get-shit-done",
+      "url": "https://github.com/gsd-build/get-shit-done",
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system f...",
       "language": "JavaScript",
       "stars": 0,
       "stars_today": 632
     },
     {
-      "name": "login?return_to=%2FSheepChef%2FAbracadabra\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:875706370,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/javascript&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2FSheepChef%2FAbracadabra\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:875706370,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/javascript&quot;,&quot;user_id&quot;:null}}",
+      "name": "SheepChef/Abracadabra",
+      "url": "https://github.com/SheepChef/Abracadabra",
       "description": "Abracadabra 魔曰，古文风文本加密工具",
       "language": "JavaScript",
       "stars": 0,
       "stars_today": 5
     },
     {
-      "name": "sponsors/jaywcjlove",
-      "url": "https://github.com/sponsors/jaywcjlove",
+      "name": "jaywcjlove/awesome-mac",
+      "url": "https://github.com/jaywcjlove/awesome-mac",
       "description": " Now we have become very big, Different from the original idea. Collect premium software in various...",
       "language": "JavaScript",
       "stars": 0,
       "stars_today": 57
     },
     {
-      "name": "login?return_to=%2Fsub-store-org%2FSub-Store\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:288649547,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/javascript&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fsub-store-org%2FSub-Store\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:288649547,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/javascript&quot;,&quot;user_id&quot;:null}}",
+      "name": "sub-store-org/Sub-Store",
+      "url": "https://github.com/sub-store-org/Sub-Store",
       "description": "Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!",
       "language": "JavaScript",
       "stars": 0,
       "stars_today": 16
     },
     {
-      "name": "login?return_to=%2Fmui%2Fmaterial-ui\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:23083156,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/javascript&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fmui%2Fmaterial-ui\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:23083156,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/javascript&quot;,&quot;user_id&quot;:null}}",
+      "name": "mui/material-ui",
+      "url": "https://github.com/mui/material-ui",
       "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free fo...",
       "language": "JavaScript",
       "stars": 0,
       "stars_today": 14
     },
     {
-      "name": "sponsors/alam00000",
-      "url": "https://github.com/sponsors/alam00000",
+      "name": "alam00000/bentopdf",
+      "url": "https://github.com/alam00000/bentopdf",
       "description": "A Privacy First PDF Toolkit",
       "language": "JavaScript",
       "stars": 0,
       "stars_today": 33
     },
     {
-      "name": "login?return_to=%2FSynkraAI%2Faiox-core\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1113140733,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/javascript&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2FSynkraAI%2Faiox-core\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1113140733,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/javascript&quot;,&quot;user_id&quot;:null}}",
+      "name": "SynkraAI/aiox-core",
+      "url": "https://github.com/SynkraAI/aiox-core",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "stars": 0,
@@ -247,80 +247,80 @@
   ],
   "go": [
     {
-      "name": "sponsors/dolthub",
-      "url": "https://github.com/sponsors/dolthub",
+      "name": "dolthub/dolt",
+      "url": "https://github.com/dolthub/dolt",
       "description": "Dolt – Git for Data",
       "language": "Go",
       "stars": 0,
       "stars_today": 410
     },
     {
-      "name": "sponsors/jesseduffield",
-      "url": "https://github.com/sponsors/jesseduffield",
+      "name": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
       "description": "simple terminal UI for git commands",
       "language": "Go",
       "stars": 0,
       "stars_today": 110
     },
     {
-      "name": "login?return_to=%2Fcoder%2Fcoder\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:440752086,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/go&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fcoder%2Fcoder\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:440752086,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/go&quot;,&quot;user_id&quot;:null}}",
+      "name": "coder/coder",
+      "url": "https://github.com/coder/coder",
       "description": "Secure environments for developers and their agents",
       "language": "Go",
       "stars": 0,
       "stars_today": 13
     },
     {
-      "name": "sponsors/wavetermdev",
-      "url": "https://github.com/sponsors/wavetermdev",
+      "name": "wavetermdev/waveterm",
+      "url": "https://github.com/wavetermdev/waveterm",
       "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
       "language": "Go",
       "stars": 0,
       "stars_today": 32
     },
     {
-      "name": "login?return_to=%2Fgrafana%2Floki\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:129717717,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/go&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fgrafana%2Floki\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:129717717,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/go&quot;,&quot;user_id&quot;:null}}",
+      "name": "grafana/loki",
+      "url": "https://github.com/grafana/loki",
       "description": "Like Prometheus, but for logs.",
       "language": "Go",
       "stars": 0,
       "stars_today": 7
     },
     {
-      "name": "login?return_to=%2Fopencontainers%2Frunc\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:36960321,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/go&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fopencontainers%2Frunc\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:36960321,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/go&quot;,&quot;user_id&quot;:null}}",
+      "name": "opencontainers/runc",
+      "url": "https://github.com/opencontainers/runc",
       "description": "CLI tool for spawning and running containers according to the OCI specification",
       "language": "Go",
       "stars": 0,
       "stars_today": 2
     },
     {
-      "name": "login?return_to=%2Fgo-playground%2Fvalidator\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:30711774,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/go&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fgo-playground%2Fvalidator\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:30711774,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/go&quot;,&quot;user_id&quot;:null}}",
+      "name": "go-playground/validator",
+      "url": "https://github.com/go-playground/validator",
       "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
       "language": "Go",
       "stars": 0,
       "stars_today": 3
     },
     {
-      "name": "login?return_to=%2Fargoproj%2Fargo-workflows\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:100982449,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/go&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fargoproj%2Fargo-workflows\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:100982449,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/go&quot;,&quot;user_id&quot;:null}}",
+      "name": "argoproj/argo-workflows",
+      "url": "https://github.com/argoproj/argo-workflows",
       "description": "Workflow Engine for Kubernetes",
       "language": "Go",
       "stars": 0,
       "stars_today": 5
     },
     {
-      "name": "login?return_to=%2Fkubernetes-sigs%2Fgateway-api\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:219058535,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/go&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fkubernetes-sigs%2Fgateway-api\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:219058535,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/go&quot;,&quot;user_id&quot;:null}}",
+      "name": "kubernetes-sigs/gateway-api",
+      "url": "https://github.com/kubernetes-sigs/gateway-api",
       "description": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
       "language": "Go",
       "stars": 0,
       "stars_today": 6
     },
     {
-      "name": "login?return_to=%2Fkubeflow%2Ftrainer\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:95700338,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/go&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fkubeflow%2Ftrainer\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:95700338,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/go&quot;,&quot;user_id&quot;:null}}",
+      "name": "kubeflow/trainer",
+      "url": "https://github.com/kubeflow/trainer",
       "description": "Distributed AI Model Training and LLM Fine-Tuning on Kubernetes",
       "language": "Go",
       "stars": 0,
@@ -329,80 +329,80 @@
   ],
   "rust": [
     {
-      "name": "sponsors/rolldown",
-      "url": "https://github.com/sponsors/rolldown",
+      "name": "rolldown/rolldown",
+      "url": "https://github.com/rolldown/rolldown",
       "description": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
       "language": "Rust",
       "stars": 0,
       "stars_today": 45
     },
     {
-      "name": "login?return_to=%2Flouis-e%2Farnis\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:535010087,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/rust&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Flouis-e%2Farnis\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:535010087,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/rust&quot;,&quot;user_id&quot;:null}}",
+      "name": "louis-e/arnis",
+      "url": "https://github.com/louis-e/arnis",
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "language": "Rust",
       "stars": 0,
       "stars_today": 102
     },
     {
-      "name": "login?return_to=%2FEFForg%2Frayhunter\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:716335769,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/rust&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2FEFForg%2Frayhunter\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:716335769,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/rust&quot;,&quot;user_id&quot;:null}}",
+      "name": "EFForg/rayhunter",
+      "url": "https://github.com/EFForg/rayhunter",
       "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
       "language": "Rust",
       "stars": 0,
       "stars_today": 46
     },
     {
-      "name": "login?return_to=%2Fsxyazi%2Fyazi\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:663900193,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/rust&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fsxyazi%2Fyazi\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:663900193,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/rust&quot;,&quot;user_id&quot;:null}}",
+      "name": "sxyazi/yazi",
+      "url": "https://github.com/sxyazi/yazi",
       "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
       "language": "Rust",
       "stars": 0,
       "stars_today": 86
     },
     {
-      "name": "sponsors/rustdesk",
-      "url": "https://github.com/sponsors/rustdesk",
+      "name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer...",
       "language": "Rust",
       "stars": 0,
       "stars_today": 63
     },
     {
-      "name": "login?return_to=%2FSaladDay%2Fcc-switch-cli\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1102384337,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/rust&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2FSaladDay%2Fcc-switch-cli\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1102384337,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/rust&quot;,&quot;user_id&quot;:null}}",
+      "name": "SaladDay/cc-switch-cli",
+      "url": "https://github.com/SaladDay/cc-switch-cli",
       "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI.",
       "language": "Rust",
       "stars": 0,
       "stars_today": 94
     },
     {
-      "name": "login?return_to=%2Fantinomyhq%2Fforge\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:900461318,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/rust&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fantinomyhq%2Fforge\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:900461318,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/rust&quot;,&quot;user_id&quot;:null}}",
+      "name": "antinomyhq/forge",
+      "url": "https://github.com/antinomyhq/forge",
       "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
       "language": "Rust",
       "stars": 0,
       "stars_today": 33
     },
     {
-      "name": "login?return_to=%2Ffarion1231%2Fcc-switch\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1031912724,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/rust&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Ffarion1231%2Fcc-switch\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1031912724,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/rust&quot;,&quot;user_id&quot;:null}}",
+      "name": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw &amp; ...",
       "language": "Rust",
       "stars": 0,
       "stars_today": 351
     },
     {
-      "name": "sponsors/atuinsh",
-      "url": "https://github.com/sponsors/atuinsh",
+      "name": "atuinsh/atuin",
+      "url": "https://github.com/atuinsh/atuin",
       "description": "✨ Making your shell magical",
       "language": "Rust",
       "stars": 0,
       "stars_today": 10
     },
     {
-      "name": "sponsors/servo",
-      "url": "https://github.com/sponsors/servo",
+      "name": "servo/servo",
+      "url": "https://github.com/servo/servo",
       "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web ...",
       "language": "Rust",
       "stars": 0,
@@ -411,80 +411,80 @@
   ],
   "typescript": [
     {
-      "name": "sponsors/InsForge",
-      "url": "https://github.com/sponsors/InsForge",
+      "name": "InsForge/InsForge",
+      "url": "https://github.com/InsForge/InsForge",
       "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
       "language": "TypeScript",
       "stars": 0,
       "stars_today": 477
     },
     {
-      "name": "login?return_to=%2FCrosstalk-Solutions%2Fproject-nomad\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1007827531,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/typescript&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2FCrosstalk-Solutions%2Fproject-nomad\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1007827531,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/typescript&quot;,&quot;user_id&quot;:null}}",
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle...",
       "language": "TypeScript",
       "stars": 0,
       "stars_today": 247
     },
     {
-      "name": "login?return_to=%2Falibaba%2Fpage-agent\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1062458369,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/typescript&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Falibaba%2Fpage-agent\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1062458369,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/typescript&quot;,&quot;user_id&quot;:null}}",
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
       "stars": 0,
       "stars_today": 1173
     },
     {
-      "name": "login?return_to=%2Fpromptfoo%2Fpromptfoo\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:633927609,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/typescript&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fpromptfoo%2Fpromptfoo\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:633927609,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/typescript&quot;,&quot;user_id&quot;:null}}",
+      "name": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
       "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare p...",
       "language": "TypeScript",
       "stars": 0,
       "stars_today": 1160
     },
     {
-      "name": "login?return_to=%2Fdreamhunter2333%2Fcloudflare_temp_email\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:678900558,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/typescript&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fdreamhunter2333%2Fcloudflare_temp_email\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:678900558,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/typescript&quot;,&quot;user_id&quot;:null}}",
+      "name": "dreamhunter2333/cloudflare_temp_email",
+      "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
       "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
       "language": "TypeScript",
       "stars": 0,
       "stars_today": 54
     },
     {
-      "name": "login?return_to=%2Fgoogle%2FA2UI\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1063641074,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/typescript&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fgoogle%2FA2UI\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1063641074,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/typescript&quot;,&quot;user_id&quot;:null}}",
+      "name": "google/A2UI",
+      "url": "https://github.com/google/A2UI",
       "description": "",
       "language": "TypeScript",
       "stars": 0,
       "stars_today": 275
     },
     {
-      "name": "login?return_to=%2Fgetnao%2Fnao\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1125445550,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/typescript&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fgetnao%2Fnao\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1125445550,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/typescript&quot;,&quot;user_id&quot;:null}}",
+      "name": "getnao/nao",
+      "url": "https://github.com/getnao/nao",
       "description": "👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat i...",
       "language": "TypeScript",
       "stars": 0,
       "stars_today": 18
     },
     {
-      "name": "login?return_to=%2Fzhukunpenglinyutong%2Fidea-claude-code-gui\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1100259232,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/typescript&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fzhukunpenglinyutong%2Fidea-claude-code-gui\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1100259232,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/typescript&quot;,&quot;user_id&quot;:null}}",
+      "name": "zhukunpenglinyutong/idea-claude-code-gui",
+      "url": "https://github.com/zhukunpenglinyutong/idea-claude-code-gui",
       "description": "IDEA Claude Code GUI Plugin",
       "language": "TypeScript",
       "stars": 0,
       "stars_today": 47
     },
     {
-      "name": "login?return_to=%2Fvudovn%2Fantigravity-kit\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1134109950,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/typescript&quot;,&quot;user_id&quot;:null}}",
-      "url": "https://github.com/login?return_to=%2Fvudovn%2Fantigravity-kit\" rel=\"nofollow\" data-hydro-click=\"{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1134109950,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending/typescript&quot;,&quot;user_id&quot;:null}}",
+      "name": "vudovn/antigravity-kit",
+      "url": "https://github.com/vudovn/antigravity-kit",
       "description": "",
       "language": "TypeScript",
       "stars": 0,
       "stars_today": 75
     },
     {
-      "name": "sponsors/open-metadata",
-      "url": "https://github.com/sponsors/open-metadata",
+      "name": "open-metadata/OpenMetadata",
+      "url": "https://github.com/open-metadata/OpenMetadata",
       "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governa...",
       "language": "TypeScript",
       "stars": 0,
