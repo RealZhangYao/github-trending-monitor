@@ -27,25 +27,34 @@ def parse_trending(html):
     articles = re.findall(pattern, html, re.DOTALL)
 
     for article in articles[:10]:  # 只取前10个
-        # 项目名 (owner/repo)
-        name_match = re.search(r'href="/([^/]+/[^"]+)"', article)
-        name = name_match.group(1) if name_match else "unknown"
+        # 项目名 - 从 h2 > a 标签中提取
+        name_match = re.search(r'<h2[^>]*>.*?<a[^>]*href="/([^/]+/[^"]+)"', article, re.DOTALL)
+        if not name_match:
+            # 备用: 找第一个看起来像 owner/repo 的链接
+            name_match = re.search(r'href="/([a-zA-Z0-9_-]+/[a-zA-Z0-9_.-]+)"[^>]*>\s*\n?\s*<span', article)
+        if not name_match:
+            name_match = re.search(r'href="/([a-zA-Z0-9_-]+/[a-zA-Z0-9_.-]+)"', article)
+        name = name_match.group(1).strip() if name_match else "unknown"
+
+        # 过滤掉非仓库链接
+        if name.startswith("login") or name.startswith("sponsors") or "/" not in name:
+            continue
 
         # 描述
-        desc_match = re.search(r'<p class="col-9[^"]*"[^>]*>\s*(.+?)\s*</p>', article, re.DOTALL)
+        desc_match = re.search(r'<p class="[^"]*col-9[^"]*"[^>]*>\s*(.+?)\s*</p>', article, re.DOTALL)
         desc = desc_match.group(1).strip() if desc_match else ""
-        desc = re.sub(r'<[^>]+>', '', desc).strip()  # 去除 HTML 标签
+        desc = re.sub(r'<[^>]+>', '', desc).strip()
 
         # 语言
         lang_match = re.search(r'itemprop="programmingLanguage">([^<]+)</span>', article)
         lang = lang_match.group(1).strip() if lang_match else ""
 
         # 总 Star 数
-        star_match = re.search(r'href="/[^/]+/[^/]+/stargazers"[^>]*>\s*([0-9,]+)\s*</a>', article)
-        stars = star_match.group(1).replace(",", "") if star_match else "0"
+        star_match = re.search(r'/stargazers"[^>]*>[\s\n]*([0-9,]+)', article)
+        stars = star_match.group(1).replace(",", "").strip() if star_match else "0"
 
         # 今日 Star
-        today_match = re.search(r'(\d+(?:,\d+)?)\s+stars?\s+today', article)
+        today_match = re.search(r'([\d,]+)\s+stars?\s+today', article)
         today = today_match.group(1).replace(",", "") if today_match else "0"
 
         projects.append({
@@ -53,8 +62,8 @@ def parse_trending(html):
             "url": f"https://github.com/{name}",
             "description": desc[:100] + "..." if len(desc) > 100 else desc,
             "language": lang,
-            "stars": int(stars),
-            "stars_today": int(today),
+            "stars": int(stars) if stars.isdigit() else 0,
+            "stars_today": int(today) if today.isdigit() else 0,
         })
 
     return projects
