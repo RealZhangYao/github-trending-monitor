@@ -1,28 +1,36 @@
 {
   "": [
     {
-      "name": "jarrodwatts/claude-hud",
-      "url": "https://github.com/jarrodwatts/claude-hud",
-      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...",
-      "language": "JavaScript",
-      "stars": 0,
-      "stars_today": 1068
-    },
-    {
-      "name": "langchain-ai/open-swe",
-      "url": "https://github.com/langchain-ai/open-swe",
-      "description": "An Open-Source Asynchronous Coding Agent",
+      "name": "FujiwaraChoki/MoneyPrinterV2",
+      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
       "language": "Python",
       "stars": 0,
-      "stars_today": 635
+      "stars_today": 283
     },
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "language": "Shell",
+      "name": "systemd/systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
       "stars": 0,
-      "stars_today": 2819
+      "stars_today": 58
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories,...",
+      "language": "Go",
+      "stars": 0,
+      "stars_today": 39
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle...",
+      "language": "TypeScript",
+      "stars": 0,
+      "stars_today": 2032
     },
     {
       "name": "opendataloader-project/opendataloader-pdf",
@@ -30,7 +38,31 @@
       "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
       "language": "Java",
       "stars": 0,
-      "stars_today": 1812
+      "stars_today": 950
+    },
+    {
+      "name": "jarrodwatts/claude-hud",
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...",
+      "language": "JavaScript",
+      "stars": 0,
+      "stars_today": 970
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 0,
+      "stars_today": 7
+    },
+    {
+      "name": "vllm-project/vllm-omni",
+      "url": "https://github.com/vllm-project/vllm-omni",
+      "description": "A framework for efficient model inference with omni-modality models",
+      "language": "Python",
+      "stars": 0,
+      "stars_today": 71
     },
     {
       "name": "louis-e/arnis",
@@ -38,97 +70,65 @@
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "language": "Rust",
       "stars": 0,
-      "stars_today": 1045
-    },
-    {
-      "name": "newton-physics/newton",
-      "url": "https://github.com/newton-physics/newton",
-      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targe...",
-      "language": "Python",
-      "stars": 0,
-      "stars_today": 266
-    },
-    {
-      "name": "vas3k/TaxHacker",
-      "url": "https://github.com/vas3k/TaxHacker",
-      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts...",
-      "language": "TypeScript",
-      "stars": 0,
-      "stars_today": 137
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars": 0,
-      "stars_today": 433
-    },
-    {
-      "name": "openrocket/openrocket",
-      "url": "https://github.com/openrocket/openrocket",
-      "description": "Model-rocketry aerodynamics and trajectory simulation software",
-      "language": "Java",
-      "stars": 0,
-      "stars_today": 144
+      "stars_today": 690
     }
   ],
   "python": [
-    {
-      "name": "langchain-ai/open-swe",
-      "url": "https://github.com/langchain-ai/open-swe",
-      "description": "An Open-Source Asynchronous Coding Agent",
-      "language": "Python",
-      "stars": 0,
-      "stars_today": 635
-    },
-    {
-      "name": "newton-physics/newton",
-      "url": "https://github.com/newton-physics/newton",
-      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targe...",
-      "language": "Python",
-      "stars": 0,
-      "stars_today": 266
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars": 0,
-      "stars_today": 433
-    },
     {
       "name": "FujiwaraChoki/MoneyPrinterV2",
       "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
       "description": "Automate the process of making money online.",
       "language": "Python",
       "stars": 0,
-      "stars_today": 775
+      "stars_today": 283
     },
     {
-      "name": "huggingface/skills",
-      "url": "https://github.com/huggingface/skills",
-      "description": "Give your agents the power of the Hugging Face ecosystem",
+      "name": "vllm-project/vllm-omni",
+      "url": "https://github.com/vllm-project/vllm-omni",
+      "description": "A framework for efficient model inference with omni-modality models",
       "language": "Python",
       "stars": 0,
-      "stars_today": 101
+      "stars_today": 71
     },
     {
-      "name": "astral-sh/ty",
-      "url": "https://github.com/astral-sh/ty",
-      "description": "An extremely fast Python type checker and language server, written in Rust.",
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "stars": 0,
-      "stars_today": 147
+      "stars_today": 1503
     },
     {
-      "name": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "stars": 0,
-      "stars_today": 655
+      "stars_today": 272
+    },
+    {
+      "name": "langchain-ai/open-swe",
+      "url": "https://github.com/langchain-ai/open-swe",
+      "description": "An Open-Source Asynchronous Coding Agent",
+      "language": "Python",
+      "stars": 0,
+      "stars_today": 428
+    },
+    {
+      "name": "opengaming/osgameclones",
+      "url": "https://github.com/opengaming/osgameclones",
+      "description": "Open Source Clones of Popular Games",
+      "language": "Python",
+      "stars": 0,
+      "stars_today": 160
+    },
+    {
+      "name": "meta-pytorch/OpenEnv",
+      "url": "https://github.com/meta-pytorch/OpenEnv",
+      "description": "An interface library for RL post training with environments.",
+      "language": "Python",
+      "stars": 0,
+      "stars_today": 10
     },
     {
       "name": "microsoft/apm",
@@ -136,23 +136,23 @@
       "description": "Agent Package Manager",
       "language": "Python",
       "stars": 0,
-      "stars_today": 107
+      "stars_today": 54
     },
     {
-      "name": "datalab-to/chandra",
-      "url": "https://github.com/datalab-to/chandra",
-      "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "stars": 0,
-      "stars_today": 29
+      "stars_today": 427
     },
     {
-      "name": "github/spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
       "language": "Python",
       "stars": 0,
-      "stars_today": 352
+      "stars_today": 242
     }
   ],
   "javascript": [
@@ -162,7 +162,7 @@
       "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...",
       "language": "JavaScript",
       "stars": 0,
-      "stars_today": 1068
+      "stars_today": 970
     },
     {
       "name": "affaan-m/everything-claude-code",
@@ -170,7 +170,7 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research...",
       "language": "JavaScript",
       "stars": 0,
-      "stars_today": 2548
+      "stars_today": 3370
     },
     {
       "name": "justlovemaki/AIClient-2-API",
@@ -178,7 +178,7 @@
       "description": "Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI A...",
       "language": "JavaScript",
       "stars": 0,
-      "stars_today": 194
+      "stars_today": 69
     },
     {
       "name": "cockpit-project/cockpit",
@@ -186,7 +186,47 @@
       "description": "Cockpit is a web-based graphical interface for servers.",
       "language": "JavaScript",
       "stars": 0,
-      "stars_today": 365
+      "stars_today": 42
+    },
+    {
+      "name": "zhw2590582/ArtPlayer",
+      "url": "https://github.com/zhw2590582/ArtPlayer",
+      "description": "🎨 ArtPlayer.js is a modern and full featured HTML5 video player",
+      "language": "JavaScript",
+      "stars": 0,
+      "stars_today": 17
+    },
+    {
+      "name": "HeyPuter/puter",
+      "url": "https://github.com/HeyPuter/puter",
+      "description": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
+      "language": "JavaScript",
+      "stars": 0,
+      "stars_today": 16
+    },
+    {
+      "name": "aleixrodriala/wa-tunnel",
+      "url": "https://github.com/aleixrodriala/wa-tunnel",
+      "description": "Tunneling Internet traffic over Whatsapp",
+      "language": "JavaScript",
+      "stars": 0,
+      "stars_today": 13
+    },
+    {
+      "name": "MobSF/Mobile-Security-Framework-MobSF",
+      "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+      "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Window...",
+      "language": "JavaScript",
+      "stars": 0,
+      "stars_today": 19
+    },
+    {
+      "name": "sudheerj/javascript-interview-questions",
+      "url": "https://github.com/sudheerj/javascript-interview-questions",
+      "description": "List of 1000 JavaScript Interview Questions",
+      "language": "JavaScript",
+      "stars": 0,
+      "stars_today": 8
     },
     {
       "name": "gsd-build/get-shit-done",
@@ -194,65 +234,17 @@
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system f...",
       "language": "JavaScript",
       "stars": 0,
-      "stars_today": 1328
-    },
-    {
-      "name": "Wei-Shaw/claude-relay-service",
-      "url": "https://github.com/Wei-Shaw/claude-relay-service",
-      "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "language": "JavaScript",
-      "stars": 0,
-      "stars_today": 61
-    },
-    {
-      "name": "xnx3/translate",
-      "url": "https://github.com/xnx3/translate",
-      "description": "AI i18n, Two lines of js realize automatic html translation. No need to change the page, no language...",
-      "language": "JavaScript",
-      "stars": 0,
-      "stars_today": 36
-    },
-    {
-      "name": "cv-cat/Spider_XHS",
-      "url": "https://github.com/cv-cat/Spider_XHS",
-      "description": "小红书爬虫数据采集，小红书全域运营解决方案",
-      "language": "JavaScript",
-      "stars": 0,
-      "stars_today": 15
-    },
-    {
-      "name": "usebruno/bruno",
-      "url": "https://github.com/usebruno/bruno",
-      "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
-      "language": "JavaScript",
-      "stars": 0,
-      "stars_today": 42
-    },
-    {
-      "name": "leaningtech/webvm",
-      "url": "https://github.com/leaningtech/webvm",
-      "description": "Virtual Machine for the Web",
-      "language": "JavaScript",
-      "stars": 0,
-      "stars_today": 15
+      "stars_today": 820
     }
   ],
   "go": [
     {
-      "name": "kubernetes/kubernetes",
-      "url": "https://github.com/kubernetes/kubernetes",
-      "description": "Production-Grade Container Scheduling and Management",
+      "name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories,...",
       "language": "Go",
       "stars": 0,
-      "stars_today": 40
-    },
-    {
-      "name": "github/gh-aw",
-      "url": "https://github.com/github/gh-aw",
-      "description": "GitHub Agentic Workflows",
-      "language": "Go",
-      "stars": 0,
-      "stars_today": 8
+      "stars_today": 39
     },
     {
       "name": "grpc/grpc-go",
@@ -260,15 +252,7 @@
       "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
       "language": "Go",
       "stars": 0,
-      "stars_today": 3
-    },
-    {
-      "name": "go-chi/chi",
-      "url": "https://github.com/go-chi/chi",
-      "description": "lightweight, idiomatic and composable router for building Go HTTP services",
-      "language": "Go",
-      "stars": 0,
-      "stars_today": 23
+      "stars_today": 4
     },
     {
       "name": "wavetermdev/waveterm",
@@ -276,47 +260,63 @@
       "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
       "language": "Go",
       "stars": 0,
-      "stars_today": 77
+      "stars_today": 52
     },
     {
-      "name": "traefik/traefik",
-      "url": "https://github.com/traefik/traefik",
-      "description": "The Cloud Native Application Proxy",
+      "name": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "description": "Meshery, the cloud native manager",
       "language": "Go",
       "stars": 0,
-      "stars_today": 35
+      "stars_today": 7
     },
     {
-      "name": "golang-migrate/migrate",
-      "url": "https://github.com/golang-migrate/migrate",
-      "description": "Database migrations. CLI and Golang library.",
+      "name": "github/gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
       "language": "Go",
       "stars": 0,
-      "stars_today": 6
+      "stars_today": 7
     },
     {
-      "name": "masterking32/MasterDnsVPN",
-      "url": "https://github.com/masterking32/MasterDnsVPN",
-      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-ove...",
+      "name": "fleetdm/fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open device management",
       "language": "Go",
       "stars": 0,
-      "stars_today": 24
+      "stars_today": 8
     },
     {
-      "name": "etcd-io/etcd",
-      "url": "https://github.com/etcd-io/etcd",
-      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
       "language": "Go",
       "stars": 0,
-      "stars_today": 27
+      "stars_today": 108
     },
     {
-      "name": "vitessio/vitess",
-      "url": "https://github.com/vitessio/vitess",
-      "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+      "name": "goreleaser/goreleaser",
+      "url": "https://github.com/goreleaser/goreleaser",
+      "description": "Release engineering, simplified",
       "language": "Go",
       "stars": 0,
-      "stars_today": 16
+      "stars_today": 3
+    },
+    {
+      "name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": 0,
+      "stars_today": 19
+    },
+    {
+      "name": "docker/docker-agent",
+      "url": "https://github.com/docker/docker-agent",
+      "description": "AI Agent Builder and Runtime by Docker Engineering",
+      "language": "Go",
+      "stars": 0,
+      "stars_today": 22
     }
   ],
   "rust": [
@@ -326,15 +326,7 @@
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "language": "Rust",
       "stars": 0,
-      "stars_today": 1045
-    },
-    {
-      "name": "denoland/deno",
-      "url": "https://github.com/denoland/deno",
-      "description": "A modern runtime for JavaScript and TypeScript.",
-      "language": "Rust",
-      "stars": 0,
-      "stars_today": 38
+      "stars_today": 690
     },
     {
       "name": "astral-sh/uv",
@@ -342,7 +334,15 @@
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "language": "Rust",
       "stars": 0,
-      "stars_today": 251
+      "stars_today": 94
+    },
+    {
+      "name": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "stars": 0,
+      "stars_today": 15
     },
     {
       "name": "astral-sh/ruff",
@@ -350,15 +350,23 @@
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
       "stars": 0,
-      "stars_today": 152
+      "stars_today": 68
     },
     {
-      "name": "tempoxyz/tempo",
-      "url": "https://github.com/tempoxyz/tempo",
-      "description": "the blockchain for payments",
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "stars": 0,
-      "stars_today": 17
+      "stars_today": 183
+    },
+    {
+      "name": "ekzhang/bore",
+      "url": "https://github.com/ekzhang/bore",
+      "description": "🕳 bore is a simple CLI tool for making tunnels to localhost",
+      "language": "Rust",
+      "stars": 0,
+      "stars_today": 12
     },
     {
       "name": "farion1231/cc-switch",
@@ -366,15 +374,7 @@
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw &amp; ...",
       "language": "Rust",
       "stars": 0,
-      "stars_today": 557
-    },
-    {
-      "name": "block/goose",
-      "url": "https://github.com/block/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and ...",
-      "language": "Rust",
-      "stars": 0,
-      "stars_today": 63
+      "stars_today": 354
     },
     {
       "name": "reacherhq/check-if-email-exists",
@@ -382,33 +382,41 @@
       "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP ba...",
       "language": "Rust",
       "stars": 0,
-      "stars_today": 41
+      "stars_today": 17
     },
     {
-      "name": "DioxusLabs/dioxus",
-      "url": "https://github.com/DioxusLabs/dioxus",
-      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "name": "screenpipe/screenpipe",
+      "url": "https://github.com/screenpipe/screenpipe",
+      "description": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search....",
       "language": "Rust",
       "stars": 0,
-      "stars_today": 15
+      "stars_today": 48
     },
     {
-      "name": "Xerxes-2/clewdr",
-      "url": "https://github.com/Xerxes-2/clewdr",
-      "description": "High Performance LLM Reverse Proxy",
+      "name": "atuinsh/atuin",
+      "url": "https://github.com/atuinsh/atuin",
+      "description": "✨ Making your shell magical",
       "language": "Rust",
       "stars": 0,
-      "stars_today": 13
+      "stars_today": 27
     }
   ],
   "typescript": [
     {
-      "name": "vas3k/TaxHacker",
-      "url": "https://github.com/vas3k/TaxHacker",
-      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts...",
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle...",
       "language": "TypeScript",
       "stars": 0,
-      "stars_today": 137
+      "stars_today": 2032
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 0,
+      "stars_today": 107
     },
     {
       "name": "anomalyco/opencode",
@@ -416,47 +424,15 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "stars": 0,
-      "stars_today": 823
+      "stars_today": 1011
     },
     {
-      "name": "code-yeongyu/oh-my-openagent",
-      "url": "https://github.com/code-yeongyu/oh-my-openagent",
-      "description": "omo; the best agent harness - previously oh-my-opencode",
+      "name": "DayuanJiang/next-ai-draw-io",
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you...",
       "language": "TypeScript",
       "stars": 0,
-      "stars_today": 365
-    },
-    {
-      "name": "southleft/figma-console-mcp",
-      "url": "https://github.com/southleft/figma-console-mcp",
-      "description": "Your design system as an API. Connect AI to Figma for extraction, creation, and debugging.",
-      "language": "TypeScript",
-      "stars": 0,
-      "stars_today": 34
-    },
-    {
-      "name": "nexmoe/VidBee",
-      "url": "https://github.com/nexmoe/VidBee",
-      "description": "Download videos from almost any website worldwide",
-      "language": "TypeScript",
-      "stars": 0,
-      "stars_today": 94
-    },
-    {
-      "name": "yarnpkg/berry",
-      "url": "https://github.com/yarnpkg/berry",
-      "description": "📦🐈 Active development trunk for Yarn ⚒",
-      "language": "TypeScript",
-      "stars": 0,
-      "stars_today": 20
-    },
-    {
-      "name": "storybookjs/storybook",
-      "url": "https://github.com/storybookjs/storybook",
-      "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in ...",
-      "language": "TypeScript",
-      "stars": 0,
-      "stars_today": 16
+      "stars_today": 231
     },
     {
       "name": "Open-Dev-Society/OpenStock",
@@ -464,7 +440,39 @@
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set p...",
       "language": "TypeScript",
       "stars": 0,
-      "stars_today": 217
+      "stars_today": 105
+    },
+    {
+      "name": "iOfficeAI/AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, ...",
+      "language": "TypeScript",
+      "stars": 0,
+      "stars_today": 143
+    },
+    {
+      "name": "remotion-dev/remotion",
+      "url": "https://github.com/remotion-dev/remotion",
+      "description": "🎥 Make videos programmatically with React",
+      "language": "TypeScript",
+      "stars": 0,
+      "stars_today": 138
+    },
+    {
+      "name": "dreamhunter2333/cloudflare_temp_email",
+      "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+      "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+      "language": "TypeScript",
+      "stars": 0,
+      "stars_today": 66
+    },
+    {
+      "name": "daytonaio/daytona",
+      "url": "https://github.com/daytonaio/daytona",
+      "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+      "language": "TypeScript",
+      "stars": 0,
+      "stars_today": 440
     }
   ]
 }

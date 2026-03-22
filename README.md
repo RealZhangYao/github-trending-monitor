@@ -1,90 +1,91 @@
-# GitHub Trending - 2026-03-21
+# GitHub Trending - 2026-03-22
 
-> 自动更新于 2026-03-21 03:13 UTC
+> 自动更新于 2026-03-22 03:33 UTC
 
 ## All Languages
 
 | # | 项目 | 描述 | 语言 | Stars | 今日 |
 |---|------|------|------|-------|------|
-| 1 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ... | JavaScript | 0 | +1068 |
-| 2 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | An Open-Source Asynchronous Coding Agent | Python | 0 | +635 |
-| 3 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework &amp; software development methodology that works. | Shell | 0 | +2819 |
-| 4 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. | Java | 0 | +1812 |
-| 5 | [louis-e/arnis](https://github.com/louis-e/arnis) | Generate any location from the real world in Minecraft with a high level of detail. | Rust | 0 | +1045 |
-| 6 | [newton-physics/newton](https://github.com/newton-physics/newton) | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targe... | Python | 0 | +266 |
-| 7 | [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts... | TypeScript | 0 | +137 |
-| 8 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 0 | +433 |
-| 9 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | Model-rocketry aerodynamics and trajectory simulation software | Java | 0 | +144 |
+| 1 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Automate the process of making money online. | Python | 0 | +283 |
+| 2 | [systemd/systemd](https://github.com/systemd/systemd) | The systemd System and Service Manager | C | 0 | +58 |
+| 3 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories,... | Go | 0 | +39 |
+| 4 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle... | TypeScript | 0 | +2032 |
+| 5 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. | Java | 0 | +950 |
+| 6 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ... | JavaScript | 0 | +970 |
+| 7 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format | C++ | 0 | +7 |
+| 8 | [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | A framework for efficient model inference with omni-modality models | Python | 0 | +71 |
+| 9 | [louis-e/arnis](https://github.com/louis-e/arnis) | Generate any location from the real world in Minecraft with a high level of detail. | Rust | 0 | +690 |
 
 ## PYTHON
 
 | # | 项目 | 描述 | 语言 | Stars | 今日 |
 |---|------|------|------|-------|------|
-| 1 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | An Open-Source Asynchronous Coding Agent | Python | 0 | +635 |
-| 2 | [newton-physics/newton](https://github.com/newton-physics/newton) | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targe... | Python | 0 | +266 |
-| 3 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 0 | +433 |
-| 4 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Automate the process of making money online. | Python | 0 | +775 |
-| 5 | [huggingface/skills](https://github.com/huggingface/skills) | Give your agents the power of the Hugging Face ecosystem | Python | 0 | +101 |
-| 6 | [astral-sh/ty](https://github.com/astral-sh/ty) | An extremely fast Python type checker and language server, written in Rust. | Python | 0 | +147 |
-| 7 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally. | Python | 0 | +655 |
-| 8 | [microsoft/apm](https://github.com/microsoft/apm) | Agent Package Manager | Python | 0 | +107 |
-| 9 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | OCR model that handles complex tables, forms, handwriting with full layout. | Python | 0 | +29 |
-| 10 | [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with Spec-Driven Development | Python | 0 | +352 |
+| 1 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Automate the process of making money online. | Python | 0 | +283 |
+| 2 | [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | A framework for efficient model inference with omni-modality models | Python | 0 | +71 |
+| 3 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 0 | +1503 |
+| 4 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 0 | +272 |
+| 5 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | An Open-Source Asynchronous Coding Agent | Python | 0 | +428 |
+| 6 | [opengaming/osgameclones](https://github.com/opengaming/osgameclones) | Open Source Clones of Popular Games | Python | 0 | +160 |
+| 7 | [meta-pytorch/OpenEnv](https://github.com/meta-pytorch/OpenEnv) | An interface library for RL post training with environments. | Python | 0 | +10 |
+| 8 | [microsoft/apm](https://github.com/microsoft/apm) | Agent Package Manager | Python | 0 | +54 |
+| 9 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official, Anthropic-managed directory of high quality Claude Code Plugins. | Python | 0 | +427 |
+| 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally. | Python | 0 | +242 |
 
 ## JAVASCRIPT
 
 | # | 项目 | 描述 | 语言 | Stars | 今日 |
 |---|------|------|------|-------|------|
-| 1 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ... | JavaScript | 0 | +1068 |
-| 2 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | The agent harness performance optimization system. Skills, instincts, memory, security, and research... | JavaScript | 0 | +2548 |
-| 3 | [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) | Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI A... | JavaScript | 0 | +194 |
-| 4 | [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) | Cockpit is a web-based graphical interface for servers. | JavaScript | 0 | +365 |
-| 5 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | A light-weight and powerful meta-prompting, context engineering and spec-driven development system f... | JavaScript | 0 | +1328 |
-| 6 | [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 | JavaScript | 0 | +61 |
-| 7 | [xnx3/translate](https://github.com/xnx3/translate) | AI i18n, Two lines of js realize automatic html translation. No need to change the page, no language... | JavaScript | 0 | +36 |
-| 8 | [cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS) | 小红书爬虫数据采集，小红书全域运营解决方案 | JavaScript | 0 | +15 |
-| 9 | [usebruno/bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) | JavaScript | 0 | +42 |
-| 10 | [leaningtech/webvm](https://github.com/leaningtech/webvm) | Virtual Machine for the Web | JavaScript | 0 | +15 |
+| 1 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ... | JavaScript | 0 | +970 |
+| 2 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | The agent harness performance optimization system. Skills, instincts, memory, security, and research... | JavaScript | 0 | +3370 |
+| 3 | [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) | Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI A... | JavaScript | 0 | +69 |
+| 4 | [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) | Cockpit is a web-based graphical interface for servers. | JavaScript | 0 | +42 |
+| 5 | [zhw2590582/ArtPlayer](https://github.com/zhw2590582/ArtPlayer) | 🎨 ArtPlayer.js is a modern and full featured HTML5 video player | JavaScript | 0 | +17 |
+| 6 | [HeyPuter/puter](https://github.com/HeyPuter/puter) | 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable. | JavaScript | 0 | +16 |
+| 7 | [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) | Tunneling Internet traffic over Whatsapp | JavaScript | 0 | +13 |
+| 8 | [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Window... | JavaScript | 0 | +19 |
+| 9 | [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) | List of 1000 JavaScript Interview Questions | JavaScript | 0 | +8 |
+| 10 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | A light-weight and powerful meta-prompting, context engineering and spec-driven development system f... | JavaScript | 0 | +820 |
 
 ## GO
 
 | # | 项目 | 描述 | 语言 | Stars | 今日 |
 |---|------|------|------|-------|------|
-| 1 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | Production-Grade Container Scheduling and Management | Go | 0 | +40 |
-| 2 | [github/gh-aw](https://github.com/github/gh-aw) | GitHub Agentic Workflows | Go | 0 | +8 |
-| 3 | [grpc/grpc-go](https://github.com/grpc/grpc-go) | The Go language implementation of gRPC. HTTP/2 based RPC | Go | 0 | +3 |
-| 4 | [go-chi/chi](https://github.com/go-chi/chi) | lightweight, idiomatic and composable router for building Go HTTP services | Go | 0 | +23 |
-| 5 | [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | An open-source, AI-integrated, cross-platform terminal for seamless workflows | Go | 0 | +77 |
-| 6 | [traefik/traefik](https://github.com/traefik/traefik) | The Cloud Native Application Proxy | Go | 0 | +35 |
-| 7 | [golang-migrate/migrate](https://github.com/golang-migrate/migrate) | Database migrations. CLI and Golang library. | Go | 0 | +6 |
-| 8 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-ove... | Go | 0 | +24 |
-| 9 | [etcd-io/etcd](https://github.com/etcd-io/etcd) | Distributed reliable key-value store for the most critical data of a distributed system | Go | 0 | +27 |
-| 10 | [vitessio/vitess](https://github.com/vitessio/vitess) | Vitess is a database clustering system for horizontal scaling of MySQL. | Go | 0 | +16 |
+| 1 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories,... | Go | 0 | +39 |
+| 2 | [grpc/grpc-go](https://github.com/grpc/grpc-go) | The Go language implementation of gRPC. HTTP/2 based RPC | Go | 0 | +4 |
+| 3 | [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | An open-source, AI-integrated, cross-platform terminal for seamless workflows | Go | 0 | +52 |
+| 4 | [meshery/meshery](https://github.com/meshery/meshery) | Meshery, the cloud native manager | Go | 0 | +7 |
+| 5 | [github/gh-aw](https://github.com/github/gh-aw) | GitHub Agentic Workflows | Go | 0 | +7 |
+| 6 | [fleetdm/fleet](https://github.com/fleetdm/fleet) | Open device management | Go | 0 | +8 |
+| 7 | [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file | Go | 0 | +108 |
+| 8 | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | Release engineering, simplified | Go | 0 | +3 |
+| 9 | [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | Find, verify, and analyze leaked credentials | Go | 0 | +19 |
+| 10 | [docker/docker-agent](https://github.com/docker/docker-agent) | AI Agent Builder and Runtime by Docker Engineering | Go | 0 | +22 |
 
 ## RUST
 
 | # | 项目 | 描述 | 语言 | Stars | 今日 |
 |---|------|------|------|-------|------|
-| 1 | [louis-e/arnis](https://github.com/louis-e/arnis) | Generate any location from the real world in Minecraft with a high level of detail. | Rust | 0 | +1045 |
-| 2 | [denoland/deno](https://github.com/denoland/deno) | A modern runtime for JavaScript and TypeScript. | Rust | 0 | +38 |
-| 3 | [astral-sh/uv](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, written in Rust. | Rust | 0 | +251 |
-| 4 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | An extremely fast Python linter and code formatter, written in Rust. | Rust | 0 | +152 |
-| 5 | [tempoxyz/tempo](https://github.com/tempoxyz/tempo) | the blockchain for payments | Rust | 0 | +17 |
-| 6 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw &amp; ... | Rust | 0 | +557 |
-| 7 | [block/goose](https://github.com/block/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and ... | Rust | 0 | +63 |
-| 8 | [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) | Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP ba... | Rust | 0 | +41 |
-| 9 | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | Fullstack app framework for web, desktop, and mobile. | Rust | 0 | +15 |
-| 10 | [Xerxes-2/clewdr](https://github.com/Xerxes-2/clewdr) | High Performance LLM Reverse Proxy | Rust | 0 | +13 |
+| 1 | [louis-e/arnis](https://github.com/louis-e/arnis) | Generate any location from the real world in Minecraft with a high level of detail. | Rust | 0 | +690 |
+| 2 | [astral-sh/uv](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, written in Rust. | Rust | 0 | +94 |
+| 3 | [n0-computer/iroh](https://github.com/n0-computer/iroh) | IP addresses break, dial keys instead. Modular networking stack in Rust. | Rust | 0 | +15 |
+| 4 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | An extremely fast Python linter and code formatter, written in Rust. | Rust | 0 | +68 |
+| 5 | [openai/codex](https://github.com/openai/codex) | Lightweight coding agent that runs in your terminal | Rust | 0 | +183 |
+| 6 | [ekzhang/bore](https://github.com/ekzhang/bore) | 🕳 bore is a simple CLI tool for making tunnels to localhost | Rust | 0 | +12 |
+| 7 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw &amp; ... | Rust | 0 | +354 |
+| 8 | [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) | Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP ba... | Rust | 0 | +17 |
+| 9 | [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) | screenpipe turns your computer into a personal AI that knows everything you've done. record. search.... | Rust | 0 | +48 |
+| 10 | [atuinsh/atuin](https://github.com/atuinsh/atuin) | ✨ Making your shell magical | Rust | 0 | +27 |
 
 ## TYPESCRIPT
 
 | # | 项目 | 描述 | 语言 | Stars | 今日 |
 |---|------|------|------|-------|------|
-| 1 | [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts... | TypeScript | 0 | +137 |
-| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | TypeScript | 0 | +823 |
-| 3 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | omo; the best agent harness - previously oh-my-opencode | TypeScript | 0 | +365 |
-| 4 | [southleft/figma-console-mcp](https://github.com/southleft/figma-console-mcp) | Your design system as an API. Connect AI to Figma for extraction, creation, and debugging. | TypeScript | 0 | +34 |
-| 5 | [nexmoe/VidBee](https://github.com/nexmoe/VidBee) | Download videos from almost any website worldwide | TypeScript | 0 | +94 |
-| 6 | [yarnpkg/berry](https://github.com/yarnpkg/berry) | 📦🐈 Active development trunk for Yarn ⚒ | TypeScript | 0 | +20 |
-| 7 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | Storybook is the industry standard workshop for building, documenting, and testing UI components in ... | TypeScript | 0 | +16 |
-| 8 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set p... | TypeScript | 0 | +217 |
+| 1 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle... | TypeScript | 0 | +2032 |
+| 2 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) |  | TypeScript | 0 | +107 |
+| 3 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | TypeScript | 0 | +1011 |
+| 4 | [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you... | TypeScript | 0 | +231 |
+| 5 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set p... | TypeScript | 0 | +105 |
+| 6 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, ... | TypeScript | 0 | +143 |
+| 7 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 🎥 Make videos programmatically with React | TypeScript | 0 | +138 |
+| 8 | [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot | TypeScript | 0 | +66 |
+| 9 | [daytonaio/daytona](https://github.com/daytonaio/daytona) | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code | TypeScript | 0 | +440 |
